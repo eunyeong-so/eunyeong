@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c7c7d984b1c13ca4782de3745989ea91
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Daehan
+  fontNames:
+  - Daehan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 51a88892bd8b793428c6c8bb8a99dacb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
